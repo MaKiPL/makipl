@@ -1,5 +1,3 @@
-<img src="https://www.mgomulak.pl/freeukraine_.webp" align="center" />
-
 <h1 align="center">Hi 👋, I'm Marcin 'Maki' Gomulak</h1>
 <h3 align="center">Experienced programmer in various languages</h3>
 
